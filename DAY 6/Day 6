@@ -1,0 +1,40 @@
+# 🚀 Claude AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day Claude AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 1: Foundational Frameworks & Context Engineering
+
+#### Day 6: Resume Refactoring & ATS Compiler Optimization
+* **Objective:** Use Claude as a deterministic compiler to refactor a software engineering resume for ATS (Applicant Tracking System) compatibility.
+* **The Experiment:** Ran an audit on my existing 2-page resume, identified architectural flaws causing parsing latency/failures, and executed a complete structural rewrite into a high-scoring, 1-page plain-text layout.
+
+### 📊 Performance Metrics
+| Metric | Legacy Build (Before) | Optimized Build (After) |
+| :--- | :---: | :---: |
+| **ATS Parsed Score** | **58 / 100** 🔴 | **89 / 100** 🟢 |
+| **Page Count** | 2 Pages (with overflow artifacts) | 1 Page (Strictly Compressed) |
+| **Layout Paradigm** | Multi-column / Compound Sections | Single-column / Standard Plain-Text |
+
+---
+
+### 🛠️ Code Review: What Changed & Why It Raised the Score
+
+1. **Eliminated Compound Headings (Fixed Parser Misclassification)**
+   * *Issue:* The legacy header `Experience, Achievements & Leadership` caused the parser to split and misclassify technical metrics.
+   * *Fix:* Refactored into standardized, predictable block structures: `Experience`, `Projects`, and `Certifications & Training`.
+
+2. **Implemented Domain Front-Loading (Keyword Indexing)**
+   * *Issue:* Core engineering stacks were located at the absolute bottom of the file, delaying top-down keyword indexing.
+   * *Fix:* Engineered a 3-line `Professional Summary` right at the root, front-loading high-density keywords (`Java systems programming`, `REST APIs`, `Full-Stack`, `GenAI`).
+
+3. **Decoupled Certifications from Leadership**
+   * *Issue:* My **IIT Delhi Generative AI Workshop** credential was buried deep inside a compound leadership bullet point, making it invisible to automated credential extractors.
+   * *Fix:* Isolated it into its own dedicated `Certifications & Training` pipeline.
+
+4. **Added AI/ML Feature Flags to Skills Matrix**
+   * *Issue:* Despite having built a multithreaded AI-powered CLI tool, the `Skills` block had zero AI-specific keywords.
+   * *Fix:* Appended a dedicated `AI/ML` subset (`LLM Prompting`, `Generative AI`, `Enterprise AI APIs`) completely
