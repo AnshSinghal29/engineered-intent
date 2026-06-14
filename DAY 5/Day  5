@@ -1,0 +1,47 @@
+# 🚀 Claude AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day Claude AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**. 
+
+Instead of treating AI as a generic chatbot, I am exploring how to leverage advanced prompt engineering, context engines, and strict constraints to build real-world software solutions faster and smarter.
+
+## 🎯 The Core Philosophy
+> **"AI doesn't lack intelligence; it lacks guardrails."** > The goal of this challenge is to master *Context Engineering*—turning vague, paralyzing tutorials into actionable, production-ready roadmaps.
+
+---
+
+## 🛠️ Tech Stack & Focus Areas
+* **Backend Development:** Java, Spring Boot (JDK 21), Spring Data JPA, REST APIs
+* **AI & Integration:** Agentic AI, API Integrations, Prompt/Context Engineering
+* **Tools & Deployment:** Postman, WebClient, Railway, GitHub
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 1: Foundational Frameworks & Context Engineering
+
+#### Day 5: Context Engineering vs. Vague Prompting
+* **Objective:** Test the impact of a "Constraint Engine" on AI-generated roadmaps.
+* **Experiment:** * Fed Claude a vague prompt vs. a highly detailed, context-rich prompt specifying my exact stack (**Java + Spring Boot**), time limits (**2 hrs/day**), and final milestone.
+* **The Result:** * *Vague Prompt:* Resulted in generic, low-value advice (*"Study core concepts"*), leading to tutorial paralysis.
+  * *Context-Rich Prompt:* Built an immediate, zero-friction execution plan detailing precise steps (installing JDK 21, creating a `@RestController`, and calling external APIs via `WebClient`).
+* **Key Artifacts:** * Look at the comparative analysis screenshots in the `/proofs` directory.
+
+---
+
+## 🚀 How to Navigate This Repo
+* Each day's specific markdown file, code snippet, or prompt template can be found inside the respective day's folder (e.g., `/Day-05-Context-Engineering`).
+* Visual proofs, system architecture diagrams, and roadmap comparisons are saved in the `/assets` or `/proofs` folder.
+
+## 📈 The End Goal
+By Day 60, this repository won't just be a log of text—it will host a collection of live, AI-integrated Spring Boot applications, concrete deployment workflows, and a proven playbook for building in public.
+
+---
+
+### 🤝 Connect With Me
+If you are also building in public or practicing context engineering, let's connect!
+* **LinkedIn:** [Ansh Singhal](YOUR_LINKEDIN_URL_HERE) 
+* **Challenge Tag:** `#60DayChallenge` `#BuildingInPublic`
+
+---
+*“The difference between resource hoarding and actually building comes down to clarity. Let's keep building.”* 💻🔥
