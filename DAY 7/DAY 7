@@ -1,0 +1,57 @@
+# 🚀 Claude AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day Claude AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 1: Foundational Frameworks & Context Engineering
+
+#### Day 7: Automated Inference Optimization & Strategic Workspace Architecture
+* **Objective:** Audit and map out an optimized inference execution matrix across different Claude LLM engines based on task complexity, preventing token allowance depletion.
+* **The Project:** Engineered and deployed a single-file interactive HTML dashboard visualization demonstrating strict context-routing rules based on concrete backend engineering, debugging, and content pipelines.
+
+---
+
+### 🖥️ Project Showcase: Claude UI Strategy Dashboard
+The full visual codebase has been built and rendered into an accessible frontend template. The asset layers break down into two core structural protocols:
+
+#### 1. Model Selection Matrix
+* **⚡ Haiku 4.5 `[Low Effort]`** ➔ **Speed Optimization:** Deployed strictly for quick syntax checks (e.g., Spring Boot annotation lookups) and fast, flashcard-style Q&A review loops.
+* **⚖️ Sonnet 4.6 `[Medium / Standard Effort]`** ➔ **The Daily Workhorse:** Your primary execution environment. Configured for writing CRUD API components, handling multi-layer debugging, and parsing complex Java design patterns.
+* **🏆 Opus 4.8 `[High / Max Effort]`** ➔ **Heavy-Duty Architecture:** Reserved for high-stakes foundational tasks. Deployed during initial system architecture design or when managing advanced agentic AI orchestration nodes.
+
+#### 2. Daily Task Routing Protocol
+The deployed system utilizes the following algorithmic task distribution map:
+
+| Task Category | Target Model | Required Effort Level | Strategic Justification |
+| :--- | :---: | :---: | :--- |
+| **Syntax / Concept Lookups** | Haiku 4.5 | Low 🔋 | Preserves primary workspace token limits. |
+| **CRUD API Development** | Sonnet 4.6 | Medium (Standard) 🪫 | Optimal balance between context reasoning and token cost. |
+| **Tricky Spring Boot Debugging** | Sonnet 4.6 | High 🔋 | Traces layered errors (Controller ➔ Service ➔ Repo). |
+| **Flagship Public Content Polish** | Sonnet/Opus | High 🔋 | Maximizes linguistic tone and engagement metrics. |
+| **Initial API System Architecture** | Opus 4.8 | Max 🔌 | High-impact structural setup that is expensive to refactor later. |
+
+---
+
+### ⚠️ Critical System Guardrails (Antipatterns Avoided)
+* **01 / Allocating Max/Opus to Vague Inquiries:** Avoids burning daily inference quotas on simple logic tasks where smaller models yield identical alpha.
+* **02 / Under-prompting Advanced Concept Tracks:** Enforces a ban on using low-effort or lightweight configurations for steep learning curves, neutralizing the risk of superficial comprehension.
+* **03 / Static Context Settings:** Enforces dynamic, real-time mid-conversation shifts in model tiers as task complexity changes within a single chat workspace.
+
+---
+
+## 🚀 How to Navigate This Repo
+* Access the raw HTML/Tailwind implementation source code inside `/Day-07-Claude-Strategy-Dashboard/index.html`.
+* Renders and application screenshots are archived under the `/assets` directory.
+
+---
+
+### 🤝 Connect With Me
+If you are also building in public or practicing context engineering, let's connect!
+* **LinkedIn:** [Ansh Singhal](YOUR_LINKEDIN_URL_HERE) 
+* **Challenge Tag:** `#60DayChallenge` `#BuildingInPublic`
+
+---
+*“Stop treating every prompt the same. Route your tasks like an architect routes data pipelines. Let's keep building.”* 💻🔥
