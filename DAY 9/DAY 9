@@ -1,0 +1,23 @@
+# 🚀 AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 2: Advanced Prompting & Single-File Architectures
+
+#### Day 9: Zero-Backend SaaS Generation & Complex State Management
+* **Objective:** Test the limits of single-shot and sequential prompt engineering by generating a fully functional, complex web application with zero manual boilerplate coding.
+* **The Project:** Engineered **NutriScope**—a comprehensive nutritional analytics and meal-planning dashboard contained entirely within a single HTML file.
+* **LLM Engine Used:** Gemini (Context & Code Generation)
+
+---
+
+### 🥗 Project Showcase: NutriScope
+NutriScope is a client-side nutritional tracking engine that dynamically calculates biometric targets and tracks micronutrient risks in real-time. 
+
+#### ⚙️ Core Engine Features
+* **🧬 Dynamic Biometric Profiling:** Calculates basal metabolic rate (BMR) and daily macro targets (Protein, Carbs, Fats) based on age, weight, height, and specific activity multipliers (Mifflin-St Jeor equation).
+* **📊 Live Data Tracking:** Features a built-in 60+ item food database. Logging food dynamically updates circular progress charts (
