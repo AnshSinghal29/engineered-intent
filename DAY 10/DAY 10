@@ -1,0 +1,28 @@
+# 🚀 AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 2: Advanced Prompting & Single-File Architectures
+
+#### Day 10: Autonomous Portfolio Generation & Branding Architecture
+* **Objective:** Leverage LLM generative capabilities to architect and deploy a premium, responsive personal portfolio website using a single comprehensive prompt, eliminating manual frontend boilerplate.
+* **The Project:** Engineered **Ansh.Dev**—a dark-mode optimized, glassmorphism-styled personal portfolio contained entirely within a single HTML file.
+* **LLM Engine Used:** Gemini (Context Ingestion & Code Generation)
+
+---
+
+### 👨‍💻 Project Showcase: Ansh.Dev Portfolio
+This project demonstrates how structured data ingestion combined with strict design constraints can instantly compile into a production-ready personal brand identity.
+
+#### ⚙️ Architectural Features
+* **Hero & Identity Layer:** Dynamic typing animations and ambient gradient background effects (`animate-blob`) that establish a modern engineering aesthetic.
+* **Technical Arsenal:** Auto-generated skill matrix featuring CSS-animated progress bars for core competencies (Java, Full-Stack, DSA) and categorized tech-stack clouds.
+* **Project Showcase:** Interactive project cards displaying real-world builds (`Smart-CLI`, `FORGE E-Commerce`, `Code-Alchemy-365`) with extracted tech-stack tags and repository routing.
+* **Experience Timeline:** A responsive, alternating timeline component detailing hackathon victories (HackBMU), collegiate leadership, and enterprise certifications (NASSCOM, IIT Delhi).
+
+#### 🛠️ Tech Stack & Constraints
+* **Frontend:** HTML5, Vanilla JavaScript (DOM manipulation, Intersection
