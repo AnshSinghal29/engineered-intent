@@ -1,0 +1,42 @@
+# 🚀 AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 2: Advanced Prompting & System Architectures
+
+#### Day 12: Recruiter Reverse-Engineering & Career Stack Optimization
+* **Objective:** Program an LLM to act as a hyper-critical Senior Technical Recruiter and Career Coach. The goal was to audit my professional engineering stack, expose critical skill gaps, and generate a highly targeted, deployable job search toolkit.
+* **The Project:** Engineered an autonomous career strategy pipeline that translates raw software engineering metrics into high-conversion outreach and behavioral data.
+* **LLM Engine Used:** Claude (Persona Adoption & Data Auditing)
+
+---
+
+### 🧰 Project Showcase: The Job Search Toolkit
+
+Instead of writing generic cover letters from scratch, I engineered a context-heavy prompt using my optimized ATS resume to generate a complete outreach architecture. 
+
+#### ⚙️ Core Modules Generated
+* **Algorithmic Gap Analysis:** The engine identified exactly what is missing for enterprise Backend roles. *The hard truth extracted:* Having "Spring Boot (in progress)" is a vulnerability. The immediate roadmap pivot is to build, test (JUnit), and deploy a Spring Boot REST API to eliminate this gap.
+* **Cold Outreach Architecture:** Compiled high-conversion, constraint-based email templates targeting Technical Recruiters and Hiring Managers, heavily front-loading my multithreaded Java and low-latency API metrics.
+* **STAR Method Mapping:** Translated pure backend engineering feats (e.g., reducing A* route recalculation latency by 12ms at HackBMU) into structured behavioral talking points ready for technical interviews.
+* **Elevator Pitch Compilation:** A 30-second professional introduction algorithmically optimized to highlight execution under pressure and systems programming depth.
+
+---
+
+## 🚀 How to Navigate This Repo
+* The raw prompt instructions, gap analysis logs, and the complete outreach toolkit (Cover letters, LinkedIn DMs, Email templates) are located in `/Day-12-Career-Stack-Optimization/`.
+* Action items and the updated learning roadmap for Week 3 are documented in the root directory.
+
+---
+
+### 🤝 Connect With Me
+If you are also building in public, reverse-engineering the hiring process, or optimizing your tech stack, let's connect!
+* **LinkedIn:** [Ansh Singhal](YOUR_LINKEDIN_URL_HERE) 
+* **Challenge Tag:** `#60DayChallenge` `#BuildingInPublic`
+
+---
+*“Stop guessing what recruiters want. Treat your career strategy like system architecture—audit the gaps, optimize the endpoints, and execute. Let's keep building.”* 💻🔥
