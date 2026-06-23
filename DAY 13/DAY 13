@@ -1,0 +1,42 @@
+# 🚀 AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 2: Advanced Prompting & System Architectures
+
+#### Day 13: Autonomous Job Sourcing & Market Gap Analysis
+* **Objective:** Eliminate manual job board scrolling by programming an LLM to act as a highly selective Job Placement Agent. The goal was to cross-reference my newly optimized ATS resume against strict career constraints to output a curated, high-ROI application pipeline.
+* **The Project:** Engineered a constraint-based job discovery engine that filters target roles, analyzes market demand, and exports actionable data directly into Excel.
+* **LLM Engine Used:** Claude (Data Correlation & Market Analysis)
+
+---
+
+### 🧰 Project Showcase: The Job Discovery Engine
+
+Instead of aimlessly applying, I fed the AI strict constraints: Target titles (Java Backend), compensation floors (₹10LPA+), preferred environments (MAANG, Startups), and a hard exclusion list (no mass recruiters). 
+
+#### ⚙️ Core Modules Generated
+* **Constraint-Based Matching:** Curated top-tier roles (e.g., Anakin YC S21, Federis) that perfectly align with my multithreaded architecture and GenAI API integration experience. 
+* **Market Demand Insights:** Extracted the hard truth about the current hiring landscape—highlighting the industry shift toward engineers who can fuse Core Java backend systems with Generative AI APIs.
+* **Actionable Skill Audits:** Mapped exactly what is needed to close the gap for enterprise roles (e.g., shifting Spring Boot from "learning" to a deployed microservice utilizing Spring Data JPA).
+* **Automated Data Export:** Structured the output into a raw `.csv` format, allowing for instant copy-pasting into Microsoft Excel to build a clean, trackable application pipeline.
+
+---
+
+## 🚀 How to Navigate This Repo
+* The raw prompt instructions, target constraints, and the output job market analysis are located in `/Day-13-Job-Discovery-Engine/`.
+* The `Top_Job_Opportunities.csv` file is available for download and direct import into your spreadsheet tracker of choice.
+
+---
+
+### 🤝 Connect With Me
+If you are also building in public, automating your career workflows, or optimizing your tech stack, let's connect!
+* **LinkedIn:** [Ansh Singhal](YOUR_LINKEDIN_URL_HERE) 
+* **Challenge Tag:** `#60DayChallenge` `#BuildingInPublic`
+
+---
+*“Don't search for jobs manually. Treat your career pipeline like data engineering—set strict filters, automate the extraction, and execute. Let's keep building.”* 💻🔥
