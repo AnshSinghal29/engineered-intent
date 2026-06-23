@@ -1,0 +1,42 @@
+# 🚀 AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 2: Advanced Prompting & System Architectures
+
+#### Day 14: Autonomous Red Flag Detection & JD Auditing
+* **Objective:** Protect against toxic workplaces and burnout by programming an LLM to act as a hyper-critical Job Description Auditor. The goal was to parse corporate jargon, expose hidden expectations, and calculate a definitive risk score.
+* **The Project:** Engineered an AI Red Flag Detector that cross-references job requirements with company business models to identify unrealistic expectations and generate defensive interview questions.
+* **LLM Engine Used:** Claude (Semantic Analysis & Risk Assessment)
+
+---
+
+### 🧰 Project Showcase: The Red Flag Detector
+
+Instead of taking a job description at face value, I fed the AI the JD of a Java Developer role alongside the company's "About Us" section. 
+
+#### ⚙️ Core Modules Generated
+* **Burnout Signal Detection:** The engine flagged the company's "Not-To-Exceed" pricing model as a high-severity threat (8/10). *The hard truth:* In agency models, fixed bids often lead to unpaid developer crunch time when projects run long.
+* **Risk Breakdown & Scoring:** Calculated an overall Risk Score of 45/100, highlighting the contrast between a fantastic modern tech stack (Kafka, K8s, Spring Boot) and vague seniority/salary transparency.
+* **Ambiguity Auditing:** Caught contradictory language regarding "flexible schedules" mixed with "well-equipped offices" and strict SLA expectations for production troubleshooting.
+* **Defensive Interviewing:** Generated 5 reverse-interview questions designed to force transparency from hiring managers regarding on-call rotations, scope creep, and remote policies.
+
+---
+
+## 🚀 How to Navigate This Repo
+* The raw prompt instructions, target JD, company info, and the complete Red Flag Audit report are located in `/Day-14-Red-Flag-Detector/`.
+* The `Interview_Questions_Bank.md` file has been updated with the generated questions.
+
+---
+
+### 🤝 Connect With Me
+If you are also building in public, reverse-engineering the hiring process, or optimizing your tech stack, let's connect!
+* **LinkedIn:** [Ansh Singhal](YOUR_LINKEDIN_URL_HERE) 
+* **Challenge Tag:** `#60DayChallenge` `#BuildingInPublic`
+
+---
+*“Don't walk blindly into a toxic codebase or a burnout culture. Audit the employer before they audit you. Let's keep building.”* 💻🔥
