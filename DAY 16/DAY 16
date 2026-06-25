@@ -1,0 +1,55 @@
+# 🚀 AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 3: Custom AI Skills & Quantitative Automation
+
+#### Day 16: Financial AI Agent & Quantitative Equity Analytics
+* **Objective:** Extend agentic AI capabilities into the financial sector by engineering a custom Claude skill tailored for quantitative stock market analysis, fundamental extraction, and risk auditing.
+* **The Project:** Built and deployed a custom AI analytical tool and ran a benchmark test comparing two IT sector leaders: Tata Consultancy Services (TCS) and Infosys (INFY).
+* **LLM Engine Used:** Claude (Custom Skill Integration, Quantitative Reasoning, Risk Assessment)
+
+---
+
+### 🧰 Project Showcase: The Custom Financial Analyst
+
+Instead of manually scraping financial statements and calculating ratios, I programmed an AI skill to execute a comprehensive, multi-source fundamental audit.
+
+#### ⚙️ Core Modules Generated
+* **Fundamental Data Aggregation:** Successfully extracted and mapped critical metrics across both assets, accurately identifying TCS's fortress balance sheet (51.9% ROE, zero debt) versus INFY's heavily discounted P/E multiples. 
+* **Investor Profiling Logic:** Engineered a decision matrix that synthesizes raw data into actionable intelligence, segmenting recommendations based on investor risk profiles (e.g., favoring INFY for Value and TCS for Stability).
+* **Macro Risk Detection:** The skill successfully audited sector-wide headwinds, flagging "AI Deflation" and "Margin Compression" as critical threats to FY27 growth.
+* **Skill Testing Protocol:** Implemented a strict testing summary to verify that the AI passed CMP extraction, valuation verdicts, and proper disclaimer framing.
+
+---
+
+## 📊 Analytics Output Example
+
+| Metric | TCS (Stability) | INFY (Value) |
+| :--- | :---: | :---: |
+| **Market Cap** | ₹7.63 Tr | ₹4.29 Tr |
+| **P/E Ratio** | 15.51x | 14.68x |
+| **ROE (3Y Avg)** | 51.9% | 30.8% |
+| **Debt-to-Equity** | 0.0 (Debt-free) | 0.11 (Safe) |
+
+*(Data derived from the Day 16 Custom Skill Output)*
+
+---
+
+## 🚀 How to Navigate This Repo
+* The raw custom skill prompt framework, test summary logs, and complete fundamental reports for TCS and INFY are located in `/Day-16-Financial-AI-Agent/`.
+* Exported comparison tables and risk audits are available for review.
+
+---
+
+### 🤝 Connect With Me
+If you are also building in public, engineering custom AI tools, or optimizing your backend stack, let's connect!
+* **LinkedIn:** [Ansh Singhal](YOUR_LINKEDIN_URL_HERE)
+* **Challenge Tag:** `#60DayChallenge` `#BuildingInPublic`
+
+---
+*“Wealth generation requires data processing at scale. Build the systems that do the heavy lifting for you. Let's keep building.”* 💻🔥
