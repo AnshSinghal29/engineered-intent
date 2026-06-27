@@ -1,0 +1,42 @@
+# 🚀 AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 3: Quantitative Automation & Zero-Dependency UIs
+
+#### Day 17: Zero-Dependency Data Visualization & CSV Parsing
+* **Objective:** Force the LLM to bypass modern frontend frameworks and generate a complex, responsive UI using only fundamental web technologies (HTML, CSS, raw SVG). The goal is to prove that high-level data analysis and dashboarding can be executed without heavy library dependencies.
+* **The Project:** Engineered a prompt that ingests raw CSV fuel data and outputs a single-file, zero-CDN dashboard comparing vehicle fuel efficiencies and lifecycle costs.
+* **LLM Engine Used:** Claude (Data Analysis, SVG Generation, CSS Styling)
+
+---
+
+### 🧰 Project Showcase: The Pure HTML/SVG Dashboard
+
+Instead of relying on Chart.js or React, I commanded the AI to draw the charts mathematically using raw scalable vector graphics embedded directly in the HTML structure.
+
+#### ⚙️ Core Modules Generated
+* **Zero-CDN Architecture:** The entire dashboard runs locally in a single `.html` file with encapsulated `<style>` and `<script>` tags, featuring a dark navy glassmorphism UI.
+* **Automated Data Processing:** The engine successfully parsed the CSV to output accurate metrics for a 3-year-old Tata Safari driven 500km/mo. It mapped the monthly cost to ₹2,337.
+* **Raw SVG Charting:** Generated an animated gauge scoring E85 fuel at 3.8/10, alongside bar and doughnut charts visualizing CO2 emissions and Cost/km metrics. 
+* **Fuel Economics Engine:** Successfully isolated EV as the cheapest lifetime option at ₹1.75/km, while calculating the precise E85 break-even point against Petrol (+₹0.22/km premium).
+
+---
+
+## 🚀 How to Navigate This Repo
+* The raw prompt logic, the source CSV data, and the final `dashboard.html` file are located in `/Day-17-Zero-Dependency-Dashboard/`.
+* Download the HTML file and open it directly in any browser to interact with the CSS animations and SVG tooltips.
+
+---
+
+### 🤝 Connect With Me
+If you are also building in public, engineering custom AI tools, or optimizing your backend stack, let's connect!
+* **LinkedIn:** [Ansh Singhal](YOUR_LINKEDIN_URL_HERE)
+* **Challenge Tag:** `#60DayChallenge` `#BuildingInPublic`
+
+---
+*“True engineering is knowing how to build from the ground up without relying on pre-packaged libraries. Stop hoarding resources. Execute the fundamentals. Let's keep building.”* 💻🔥
