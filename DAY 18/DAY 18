@@ -1,0 +1,55 @@
+# 🚀 AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 3: Quantitative Automation & Zero-Dependency UIs
+
+#### Day 18: Custom AI Brainstorm Planner & Interactive Transcript Parser
+* **Objective:** Program an advanced semantic processing skill that refactors unformatted corporate meeting transcripts into zero-dependency, self-contained executive dashboards. The system must prevent hallucinated details, track clear speaker attribution, and implement high-fidelity visual status grouping.
+* **The Project:** Engineered the 'Custom Brainstorm Planner' and tested it against a raw Quarterly Growth Strategy Meeting transcript, outputting an interactive HTML interface built completely with local CSS and structural styling.
+* **LLM Engine Used:** Claude (Semantic Extraction, Text-to-HTML Parsing, UX Design)
+
+---
+
+### 🧰 Project Showcase: Interactive Growth Strategy Dashboard
+
+Instead of using text summaries, this program isolates architectural project drivers into dedicated functional modules.
+
+#### ⚙️ Core Modules Generated
+* **High-Fidelity Visual Hierarchy:** Renders a modern interface utilizing custom-designed status badges (e.g., 🔴 Blocking, 🟠 Planned, 🟢 Scheduled) with clean shadows and clear grid typography.
+* **Speaker-Attribution Matrix:** Parses transcripts to generate precise executive logs (CEO, CTO, CFO, VP Marketing, Product Director, Head of Sales), grouping strategic decisions and project timelines by individual stakeholder.
+* **Dependency & Conflict Isolation:** Features dedicated structural sections highlighting systemic blockers (e.g., Website Redesign vs. Engineering Capacity) to force transparency around competing priorities.
+* **Zero-Inference Architecture:** Programmed with strict guardrails to handle missing parameters natively, displaying 'Not specified' where hard values are absent, ensuring total integrity of factual context.
+
+---
+
+## 📊 Sample Executive Tracking Scheme
+
+| Task | Owner | Timeline | Status |
+| :--- | :---: | :---: | :---: |
+| **Get cost estimate for website redesign** | CTO | Before approval | 🔴 Blocking |
+| **Investigate & fix reporting performance** | CTO | Urgent (In progress) | 🔴 Priority |
+| **Execute website redesign & simplify demo** | VP Marketing | Not specified | 1 🟠 Planned |
+| **Schedule follow-up leadership meeting** | CEO | Next week | 🟢 Scheduled |
+
+*(Data derived directly from the Day 18 Meeting Transcript Output)*
+
+---
+
+## 🚀 How to Navigate This Repo
+* The system instruction profile, raw markdown prompt frameworks, and the generated interactive file (`growth_strategy_dashboard.html`) are located in `/Day-18-Transcript-Brainstorm-Planner/`.
+* Open the HTML asset directly in any modern browser to test responsive layouts and hover effects.
+
+---
+
+### 🤝 Connect With Me
+If you are also building in public, scaling corporate data workflows, or designing zero-dependency UIs, let's connect!
+* **LinkedIn:** [Ansh Singhal](YOUR_LINKEDIN_URL_HERE)
+* **Challenge Tag:** `#60DayChallenge` `#BuildingInPublic`
+
+---
+*“Communication is only valuable if it drives explicit execution. Stop reading paragraphs of meeting notes—build the dashboards that surface structural dependencies. Let's keep building.”* 💻🔥
