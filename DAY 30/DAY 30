@@ -1,0 +1,53 @@
+# 🚀 AI Mastery: 60 Days of Context & Execution
+
+Welcome to my **60-Day AI Mastery Challenge**! This repository is a dedicated log of my daily journey transitioning from passive resource collection to **active execution, building, and engineering precision**.
+
+---
+
+## 📅 Daily Execution Log
+
+### 📂 Week 4: Business Logic & Autonomous Strategy
+
+#### Day 25: React-Based Supply Chain Crisis Simulator
+* **Objective:** Engineer a gamified, state-driven educational tool to stress-test executive decision-making. The constraint? Build a complex, multi-stage React application without using npm, build tools, or a backend—everything must run offline in a single, zero-dependency HTML file.
+* **The Project:** Engineered **'Operation Lifeline: Supply Chain Crisis Lab'**. This interactive simulator thrusts the user into the role of a CEO managing a global logistics meltdown, forcing real-time trade-offs between Operating Cash, Delivery Speed, and Customer Satisfaction.
+* **LLM Engine Used:** Claude (React State Management, Game Design, UI/UX, Supply Chain Logistics)
+
+---
+
+### 🧰 Project Showcase: Operation Lifeline
+
+Instead of writing a boring article about supply chain resilience, I built an interactive war room that makes you *feel* the consequences of bad logistics. 
+
+#### ⚙️ Core Modules Generated
+* **Zero-Dependency React Architecture:** Fully functional React application utilizing CDN and Babel JSX, wrapped entirely inside one `index.html` file. No `node_modules`, no deployment overhead.
+* **Dynamic State Metrics:** Engineered a custom `updateMetrics` hook that dynamically adjusts progress bars for Cost, Inventory, Profit, Delivery Speed, and CSAT based on compounding user decisions.
+* **Branching Negotiation Trees:** Built a 4-round supplier negotiation simulator where aggressive haggling saves money but destroys delivery lead times and trust.
+* **Heuristic Executive Scoring:** The final dashboard calculates an overarching 'Crisis Management Score' alongside distinct grades for Leadership, Negotiation, and Resilience, outputting customized strategic feedback based on your biggest operational mistake.
+
+---
+
+## 📊 Sample War Room Trade-Offs
+
+| Tactical Action | Immediate Benefit | Hidden Consequence (The Trade-Off) |
+| :--- | :--- | :--- |
+| **Air Freight Emergency** | +30 Delivery Speed | -25 Operating Cash (Margin killer) |
+| **Nearshore Sourcing** | +20 Inventory Buffer | -15 Profit Margin (High production cost) |
+| **Inventory Rationing** | +25 Inventory Stability | -20 Customer Satisfaction (Client anger) |
+| **Do Nothing & Wait** | +10 Operating Cash | -25 CSAT, -20 Delivery (System collapse) |
+
+---
+
+## 🚀 How to Navigate This Repo
+* The complete, self-contained application (`operation_lifeline.html`) is located in `/Day-25-Supply-Chain-Simulator/`.
+* Simply download the HTML file and open it in any modern web browser to play. No internet connection or installation required once downloaded.
+
+---
+
+### 🤝 Connect With Me
+If you are also building in public, exploring zero-dependency React architectures, or optimizing operational logic, let's connect!
+* **LinkedIn:** [Ansh Singhal](YOUR_LINKEDIN_URL_HERE)
+* **Challenge Tag:** `#60DayChallenge` `#BuildingInPublic`
+
+---
+*“Supply chains are invisible until they break. Don't wait for a crisis to test your operational agility—simulate the shockwaves, measure the trade-offs, and engineer resilience before you need it. Let's keep building.”* 💻🔥
